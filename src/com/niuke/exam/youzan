@@ -1,0 +1,2 @@
+String线程安全（final）
+可以保证可见性的关键字：synchronized、volatile、final
